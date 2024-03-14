@@ -1,0 +1,244 @@
+{
+    "version": "5.3.0",
+    "projectId": "82d229467a5b5344fabc5e68d7086b98",
+    "applicationID": 18886,
+    "creativeName": "",
+    "pgServer": "EU",
+    "window": {
+        "‐ ": true
+    },
+    "unity": {
+        "scripts": {
+            "excludes": [
+                "**/Editor/",
+                "**/Luna/RuntimeScripts/"
+            ],
+            "msbuildMac64": "/Library/Frameworks/Mono.framework/Versions/Current/bin/msbuild",
+            "msbuildWin64": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\MSBuild\\Current\\Bin\\MSBuild.exe",
+            "externalSources": [],
+            "externalJSLibraries": [],
+            "scriptingDefines": [],
+            "msbuildVersion": "17.7",
+            "monoVersion": "N/A",
+            "dotnetVersion": "N/A"
+        },
+        "assets": {
+            "export": [
+                "resources"
+            ],
+            "excludes": [
+                "**/Editor/"
+            ],
+            "includes": [
+                "Assets/Resources/DOTweenSettings.asset",
+                "Assets/TextMesh Pro/Resources/TMP Settings.asset"
+            ]
+        },
+        "scenes": [
+            "Assets/Scenes/GameScene1.unity"
+        ],
+        "disabledScenes": [
+            "Assets/Scenes/EndlessScene.unity",
+            "Assets/Scenes/GameScene2.unity",
+            "Assets/Scenes/GameScene3.unity",
+            "Assets/Scenes/GameScene4.unity",
+            "Assets/Scenes/GameScene5.unity",
+            "Assets/Scenes/MainMenu.unity",
+            "Assets/Scenes/RedOrGreenScene.unity",
+            "Assets/Scenes/Tutorial.unity",
+            "Assets/Scenes/UpdateCharacter.unity"
+        ],
+        "startupScene": 0,
+        "packages": {
+            "default": {
+                "applicationName": "",
+                "orientation": "unspecified",
+                "languages": [
+                    "en"
+                ]
+            },
+            "ironsource": {
+                "applicationGenre": "",
+                "versionName": "",
+                "apiType": 0,
+                "playableMode": 0,
+                "packageType": 0
+            },
+            "facebook": {
+                "assetID": "",
+                "packageType": 0,
+                "disableCompression": false
+            }
+        },
+        "preloader": {
+            "active": true,
+            "icon": "",
+            "logo": "",
+            "backgroundHexColor": "#914AFA"
+        },
+        "enableRealtimeShadows": false,
+        "enableLunaCompilerV2": false,
+        "optimiseShaderVariantsExport": true,
+        "enableMecanimWASM": false,
+        "minify": true,
+        "forceUncompressed": false,
+        "forceBase64": false,
+        "genericCheck": true,
+        "disableAntiAliasing": true,
+        "preferWebGl2": false,
+        "forceStableRandomSeed": false,
+        "unusedModules": [],
+        "disableRuntimeAnalysisForCode": false,
+        "disableRuntimeAnalysisForShaders": false,
+        "useShadersCache": true,
+        "preventUpdatingRAListWhenRAIsDisabled": false,
+        "bakeReferenceAmbientProbe": false,
+        "unusedClasses": [],
+        "unusedMethods": [],
+        "stubberDataList": [],
+        "stubberData": {
+            "SDKName": "",
+            "Namespace": "",
+            "className": "",
+            "buildPlatform": "",
+            "enabled": false
+        },
+        "playerPrefs": true,
+        "enableDynamicBatching": false,
+        "forceSourcesBasedCompilation": false
+    },
+    "assets": {
+        "rules": {
+            "texture": {
+                "default": {
+                    "maxWidth": 512,
+                    "maxHeight": 512,
+                    "format": "png32",
+                    "compression": "quantSize",
+                    "quality": 65,
+                    "script": "",
+                    "ext": ""
+                },
+                "overrides": [
+                    {
+                        "maxWidth": 512,
+                        "maxHeight": 512,
+                        "format": "png32",
+                        "compression": "none",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Resources/unity_builtin_extra/Default-Particle"
+                    },
+                    {
+                        "maxWidth": 512,
+                        "maxHeight": 512,
+                        "format": "png32",
+                        "compression": "none",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset"
+                    },
+                    {
+                        "maxWidth": 512,
+                        "maxHeight": 512,
+                        "format": "png32",
+                        "compression": "none",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset"
+                    },
+                    {
+                        "maxWidth": 512,
+                        "maxHeight": 512,
+                        "format": "png32",
+                        "compression": "none",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF.asset"
+                    },
+                    {
+                        "maxWidth": 512,
+                        "maxHeight": 512,
+                        "format": "png32",
+                        "compression": "none",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF.asset"
+                    },
+                    {
+                        "maxWidth": 512,
+                        "maxHeight": 512,
+                        "format": "png32",
+                        "compression": "none",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Electronic Highway Sign SDF.asset"
+                    },
+                    {
+                        "maxWidth": 512,
+                        "maxHeight": 512,
+                        "format": "png32",
+                        "compression": "none",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Oswald Bold SDF.asset"
+                    },
+                    {
+                        "maxWidth": 512,
+                        "maxHeight": 512,
+                        "format": "png32",
+                        "compression": "none",
+                        "quality": 65,
+                        "script": "",
+                        "ext": "",
+                        "name": "Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF.asset"
+                    }
+                ]
+            },
+            "sound": {
+                "default": {
+                    "channels": 1,
+                    "startTime": "00:00.000",
+                    "endTime": "00:00.000",
+                    "lengthInSeconds": 0.0,
+                    "bitrate": 128,
+                    "script": "",
+                    "ext": ""
+                },
+                "overrides": []
+            },
+            "font": {
+                "default": {
+                    "data": {
+                        "alphabet": " §1234567890-=qwertyuiop[]asdfghjkl;'\\`zxcvbnm,./±!@#$%^&*()_+QWERTYUIOP{}ASDFGHJKL:\"|~ZXCVBNM<>?",
+                        "size": 64,
+                        "textureWidth": 1024,
+                        "textureHeight": 1024
+                    }
+                },
+                "overrides": []
+            },
+            "meshes": {
+                "default": {
+                    "halfPrecision": true
+                },
+                "overrides": []
+            },
+            "animations": {
+                "default": {
+                    "halfPrecision": true
+                },
+                "overrides": []
+            }
+        }
+    },
+    "logLevel_Cs": "error",
+    "logLevel_Js": "trace"
+}

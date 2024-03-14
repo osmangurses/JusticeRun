@@ -1,0 +1,3471 @@
+{
+  "BuildID": "ef5579bd-5bb1-405f-9df0-f45053cc78f3",
+  "Command": "project:build",
+  "ProjectID": "82d229467a5b5344fabc5e68d7086b98",
+  "ProjectStateHash": "b33921e6c44c7c09259145fc682fa6b28f32473c75b70c493b496b5f30e3f83d",
+  "StageCompletedAt": 3,
+  "EarliestFatalError": 3,
+  "StartTime": 1698743417213,
+  "EndTime": 1698743449920,
+  "PlaygroundUserID": 11889,
+  "OperatingSystem": "win32",
+  "UnityPackageID": null,
+  "TargetPlatform": "develop",
+  "UnityVersion": "2021.3.17f1",
+  "LunaVersion": "5.3.0",
+  "LogCount": 142,
+  "Logs": [
+    {
+      "LogID": "0f91e948-728f-49ba-8efd-95cc7fec1fcc",
+      "Order": 125,
+      "Timestamp": 1698743450696,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "LP3009",
+      "Description": "You are using an unsupported feature: GameObject.FindGameObjectWithTag",
+      "Details": [
+        "You are using a function/component which are currently not supported in Luna: GameObject.FindGameObjectWithTag. "
+      ],
+      "DescriptionValues": [
+        "GameObject.",
+        "FindGameObjectWithTag"
+      ],
+      "DetailsValues": [
+        "GameObject.",
+        "FindGameObjectWithTag"
+      ],
+      "LogCount": 1,
+      "LinePosition": 21,
+      "FilePath": "D:\\JusticeRun\\Assets\\Scripts\\Endless\\EndlessPlatformCreator.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "deae8804-8746-49eb-b0df-26955ad61d65",
+      "Order": 125,
+      "Timestamp": 1698743450697,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "LP3009",
+      "Description": "You are using an unsupported feature: GameObject.FindGameObjectWithTag",
+      "Details": [
+        "You are using a function/component which are currently not supported in Luna: GameObject.FindGameObjectWithTag. "
+      ],
+      "DescriptionValues": [
+        "GameObject.",
+        "FindGameObjectWithTag"
+      ],
+      "DetailsValues": [
+        "GameObject.",
+        "FindGameObjectWithTag"
+      ],
+      "LogCount": 1,
+      "LinePosition": 22,
+      "FilePath": "D:\\JusticeRun\\Assets\\Scripts\\Endless\\EndlessPlatformCreator.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "d27643c4-56d6-48d0-903d-4ccd7f099879",
+      "Order": 125,
+      "Timestamp": 1698743450706,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "LP3009",
+      "Description": "You are using an unsupported feature: GameObject.FindGameObjectWithTag",
+      "Details": [
+        "You are using a function/component which are currently not supported in Luna: GameObject.FindGameObjectWithTag. "
+      ],
+      "DescriptionValues": [
+        "GameObject.",
+        "FindGameObjectWithTag"
+      ],
+      "DetailsValues": [
+        "GameObject.",
+        "FindGameObjectWithTag"
+      ],
+      "LogCount": 1,
+      "LinePosition": 14,
+      "FilePath": "D:\\JusticeRun\\Assets\\Scripts\\Endless\\EndlessThief.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "2d8bba7c-a6f5-4898-ba35-5d9461473245",
+      "Order": 125,
+      "Timestamp": 1698743450724,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "LP3009",
+      "Description": "You are using an unsupported feature: GameObject.FindGameObjectWithTag",
+      "Details": [
+        "You are using a function/component which are currently not supported in Luna: GameObject.FindGameObjectWithTag. "
+      ],
+      "DescriptionValues": [
+        "GameObject.",
+        "FindGameObjectWithTag"
+      ],
+      "DetailsValues": [
+        "GameObject.",
+        "FindGameObjectWithTag"
+      ],
+      "LogCount": 1,
+      "LinePosition": 33,
+      "FilePath": "D:\\JusticeRun\\Assets\\Scripts\\GameScene\\CameraFollow.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "b54d0318-3c6d-49b2-bba9-56512c2cd3f3",
+      "Order": 125,
+      "Timestamp": 1698743450803,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "LP3009",
+      "Description": "You are using an unsupported feature: GameObject.FindGameObjectWithTag",
+      "Details": [
+        "You are using a function/component which are currently not supported in Luna: GameObject.FindGameObjectWithTag. "
+      ],
+      "DescriptionValues": [
+        "GameObject.",
+        "FindGameObjectWithTag"
+      ],
+      "DetailsValues": [
+        "GameObject.",
+        "FindGameObjectWithTag"
+      ],
+      "LogCount": 1,
+      "LinePosition": 13,
+      "FilePath": "D:\\JusticeRun\\Assets\\Scripts\\GameScene\\DesertNonMovedObstacles.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "be3e533d-5aa3-45d7-8912-cffb440451fb",
+      "Order": 125,
+      "Timestamp": 1698743450804,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "LP3009",
+      "Description": "You are using an unsupported feature: GameObject.FindGameObjectWithTag",
+      "Details": [
+        "You are using a function/component which are currently not supported in Luna: GameObject.FindGameObjectWithTag. "
+      ],
+      "DescriptionValues": [
+        "GameObject.",
+        "FindGameObjectWithTag"
+      ],
+      "DetailsValues": [
+        "GameObject.",
+        "FindGameObjectWithTag"
+      ],
+      "LogCount": 1,
+      "LinePosition": 17,
+      "FilePath": "D:\\JusticeRun\\Assets\\Scripts\\GameScene\\DesertNonMovedObstacles.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "ab5d2242-361a-4a5b-a044-d47b6a5e694d",
+      "Order": 125,
+      "Timestamp": 1698743450805,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "LP3009",
+      "Description": "You are using an unsupported feature: GameObject.FindGameObjectWithTag",
+      "Details": [
+        "You are using a function/component which are currently not supported in Luna: GameObject.FindGameObjectWithTag. "
+      ],
+      "DescriptionValues": [
+        "GameObject.",
+        "FindGameObjectWithTag"
+      ],
+      "DetailsValues": [
+        "GameObject.",
+        "FindGameObjectWithTag"
+      ],
+      "LogCount": 1,
+      "LinePosition": 21,
+      "FilePath": "D:\\JusticeRun\\Assets\\Scripts\\GameScene\\DesertNonMovedObstacles.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "7ad1f350-f4da-43aa-8322-54ae5673bfa9",
+      "Order": 125,
+      "Timestamp": 1698743450808,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "LP3009",
+      "Description": "You are using an unsupported feature: GameObject.FindGameObjectWithTag",
+      "Details": [
+        "You are using a function/component which are currently not supported in Luna: GameObject.FindGameObjectWithTag. "
+      ],
+      "DescriptionValues": [
+        "GameObject.",
+        "FindGameObjectWithTag"
+      ],
+      "DetailsValues": [
+        "GameObject.",
+        "FindGameObjectWithTag"
+      ],
+      "LogCount": 1,
+      "LinePosition": 10,
+      "FilePath": "D:\\JusticeRun\\Assets\\Scripts\\GameScene\\Dollars.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "b4f5cdf9-3902-4b7a-b2b6-afbbe4b39ddd",
+      "Order": 125,
+      "Timestamp": 1698743450837,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "LP3009",
+      "Description": "You are using an unsupported feature: GameObject.FindGameObjectWithTag",
+      "Details": [
+        "You are using a function/component which are currently not supported in Luna: GameObject.FindGameObjectWithTag. "
+      ],
+      "DescriptionValues": [
+        "GameObject.",
+        "FindGameObjectWithTag"
+      ],
+      "DetailsValues": [
+        "GameObject.",
+        "FindGameObjectWithTag"
+      ],
+      "LogCount": 1,
+      "LinePosition": 23,
+      "FilePath": "D:\\JusticeRun\\Assets\\Scripts\\GameScene\\MovedTrain.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "8b32f2a7-d16b-4541-b5d3-186ae4a93df1",
+      "Order": 125,
+      "Timestamp": 1698743450838,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "LP3009",
+      "Description": "You are using an unsupported feature: GameObject.FindGameObjectWithTag",
+      "Details": [
+        "You are using a function/component which are currently not supported in Luna: GameObject.FindGameObjectWithTag. "
+      ],
+      "DescriptionValues": [
+        "GameObject.",
+        "FindGameObjectWithTag"
+      ],
+      "DetailsValues": [
+        "GameObject.",
+        "FindGameObjectWithTag"
+      ],
+      "LogCount": 1,
+      "LinePosition": 27,
+      "FilePath": "D:\\JusticeRun\\Assets\\Scripts\\GameScene\\MovedTrain.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "127f4ff5-e10b-4ca6-8a56-6a954f79a4cb",
+      "Order": 125,
+      "Timestamp": 1698743450839,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "LP3009",
+      "Description": "You are using an unsupported feature: GameObject.FindGameObjectWithTag",
+      "Details": [
+        "You are using a function/component which are currently not supported in Luna: GameObject.FindGameObjectWithTag. "
+      ],
+      "DescriptionValues": [
+        "GameObject.",
+        "FindGameObjectWithTag"
+      ],
+      "DetailsValues": [
+        "GameObject.",
+        "FindGameObjectWithTag"
+      ],
+      "LogCount": 1,
+      "LinePosition": 32,
+      "FilePath": "D:\\JusticeRun\\Assets\\Scripts\\GameScene\\MovedTrain.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "52a32808-b46f-4e14-a979-842f9d30d41d",
+      "Order": 125,
+      "Timestamp": 1698743450857,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "LP3009",
+      "Description": "You are using an unsupported feature: GameObject.FindGameObjectWithTag",
+      "Details": [
+        "You are using a function/component which are currently not supported in Luna: GameObject.FindGameObjectWithTag. "
+      ],
+      "DescriptionValues": [
+        "GameObject.",
+        "FindGameObjectWithTag"
+      ],
+      "DetailsValues": [
+        "GameObject.",
+        "FindGameObjectWithTag"
+      ],
+      "LogCount": 1,
+      "LinePosition": 20,
+      "FilePath": "D:\\JusticeRun\\Assets\\Scripts\\GameScene\\PlatformCreator.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "13562a58-2a9b-4ef2-8e90-cbf83058c10e",
+      "Order": 125,
+      "Timestamp": 1698743450858,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "LP3009",
+      "Description": "You are using an unsupported feature: GameObject.FindGameObjectWithTag",
+      "Details": [
+        "You are using a function/component which are currently not supported in Luna: GameObject.FindGameObjectWithTag. "
+      ],
+      "DescriptionValues": [
+        "GameObject.",
+        "FindGameObjectWithTag"
+      ],
+      "DetailsValues": [
+        "GameObject.",
+        "FindGameObjectWithTag"
+      ],
+      "LogCount": 1,
+      "LinePosition": 21,
+      "FilePath": "D:\\JusticeRun\\Assets\\Scripts\\GameScene\\PlatformCreator.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "97f28bfd-9e1e-4e00-98b3-3e1c80f5b99a",
+      "Order": 125,
+      "Timestamp": 1698743450867,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "LP3009",
+      "Description": "You are using an unsupported feature: GameObject.FindGameObjectWithTag",
+      "Details": [
+        "You are using a function/component which are currently not supported in Luna: GameObject.FindGameObjectWithTag. "
+      ],
+      "DescriptionValues": [
+        "GameObject.",
+        "FindGameObjectWithTag"
+      ],
+      "DetailsValues": [
+        "GameObject.",
+        "FindGameObjectWithTag"
+      ],
+      "LogCount": 1,
+      "LinePosition": 15,
+      "FilePath": "D:\\JusticeRun\\Assets\\Scripts\\GameScene\\Portal.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "a91a7eba-00d0-4710-8cf0-54d312f19fad",
+      "Order": 125,
+      "Timestamp": 1698743451394,
+      "Stage": 3,
+      "ErrorType": 1,
+      "ErrorCode": "LP3006",
+      "Description": "You are not using the Luna API: Playable.InstallFullGame",
+      "Details": [
+        "You are not using the Luna API: Playable.InstallFullGame. Some ad networks require these calls. Please add these calls to ensure your playable works on all ad networks. Check documentation for more information."
+      ],
+      "DescriptionValues": [
+        "Playable",
+        "InstallFullGame"
+      ],
+      "DetailsValues": [
+        "Playable",
+        "InstallFullGame"
+      ],
+      "LogCount": 1,
+      "LinePosition": null,
+      "FilePath": "",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "f94a4c91-2549-4256-8361-11063dafc1f0",
+      "Order": 125,
+      "Timestamp": 1698743451395,
+      "Stage": 3,
+      "ErrorType": 1,
+      "ErrorCode": "LP3006",
+      "Description": "You are not using the Luna API: LifeCycle.GameEnded",
+      "Details": [
+        "You are not using the Luna API: LifeCycle.GameEnded. Some ad networks require these calls. Please add these calls to ensure your playable works on all ad networks. Check documentation for more information."
+      ],
+      "DescriptionValues": [
+        "LifeCycle",
+        "GameEnded"
+      ],
+      "DetailsValues": [
+        "LifeCycle",
+        "GameEnded"
+      ],
+      "LogCount": 1,
+      "LinePosition": null,
+      "FilePath": "",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "cce9cbb5-e8a5-43bf-a7cf-4c6390448b42",
+      "Order": 125,
+      "Timestamp": 1698743451395,
+      "Stage": 3,
+      "ErrorType": 3,
+      "ErrorCode": "LP3007",
+      "Description": "You are not using any custom events",
+      "Details": [
+        "You are not using any custom events. It is recommended to use custom events to have a better understanding of the playable."
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": null,
+      "FilePath": "",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "7d391249-3aa2-4996-b87c-6ebd15efa5c1",
+      "Order": 125,
+      "Timestamp": 1698743451397,
+      "Stage": 3,
+      "ErrorType": 3,
+      "ErrorCode": "LP3011",
+      "Description": "You are not using any LunaPlaygroundFields attributes.",
+      "Details": [
+        "You are not using any LunaPlaygroundFields attributes, it allows you to configure your playable to different concepts to find the best variation, which can drastically improve playable performance on all ad networks."
+      ],
+      "DescriptionValues": null,
+      "DetailsValues": null,
+      "LogCount": 1,
+      "LinePosition": null,
+      "FilePath": "",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "c2e19ef6-0988-4e80-a87a-06a23b7ee8ae",
+      "Order": 0,
+      "Timestamp": 1698743419649,
+      "Stage": 1,
+      "ErrorType": 0,
+      "ErrorCode": "LP1012",
+      "Description": "Export Error: An item with the same key has already been added. Key: Legacy Shaders/VertexLit (UnityEngine.Shader)",
+      "Details": [
+        "Particles/Standard Unlit",
+        ""
+      ],
+      "DescriptionValues": [
+        "An item with the same key has already been added. Key: Legacy Shaders/VertexLit (UnityEngine.Shader)"
+      ],
+      "DetailsValues": [],
+      "LogCount": 1,
+      "LinePosition": 0,
+      "FilePath": "Resources/unity_builtin_extra\\Particles/Standard Unlit",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "b3eaed69-8314-4d08-b0f2-4d4ecdfbb246",
+      "Order": 1,
+      "Timestamp": 1698743421028,
+      "Stage": 1,
+      "ErrorType": 0,
+      "ErrorCode": "LP1030",
+      "Description": "TMP Font Asset uses unsupported 'Atlas Population Mode'",
+      "Details": [
+        "TMP Font Asset '{0}' uses Atlas Population Mode '{1}' which is not supported"
+      ],
+      "DescriptionValues": [],
+      "DetailsValues": [
+        "LiberationSans SDF - Fallback",
+        "Dynamic"
+      ],
+      "LogCount": 1,
+      "LinePosition": 0,
+      "FilePath": "",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "774eeb84-f697-408c-8ea9-7cef9390ab8e",
+      "Order": 2,
+      "Timestamp": 1698743422250,
+      "Stage": 1,
+      "ErrorType": 0,
+      "ErrorCode": "LP1030",
+      "Description": "TMP Font Asset uses unsupported 'Atlas Population Mode'",
+      "Details": [
+        "TMP Font Asset '{0}' uses Atlas Population Mode '{1}' which is not supported"
+      ],
+      "DescriptionValues": [],
+      "DetailsValues": [
+        "Anton SDF",
+        "Dynamic"
+      ],
+      "LogCount": 1,
+      "LinePosition": 0,
+      "FilePath": "",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "6140cf98-6f2b-44ab-af12-6cffc0395fb7",
+      "Order": 3,
+      "Timestamp": 1698743422280,
+      "Stage": 1,
+      "ErrorType": 0,
+      "ErrorCode": "LP1012",
+      "Description": "Export Error: An item with the same key has already been added. Key: TextMeshPro/Mobile/Distance Field (UnityEngine.Shader)",
+      "Details": [
+        "TextMeshPro/Distance Field",
+        ""
+      ],
+      "DescriptionValues": [
+        "An item with the same key has already been added. Key: TextMeshPro/Mobile/Distance Field (UnityEngine.Shader)"
+      ],
+      "DetailsValues": [],
+      "LogCount": 1,
+      "LinePosition": 0,
+      "FilePath": "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "b6966f60-886d-4404-993b-ae4b0ee794ae",
+      "Order": 4,
+      "Timestamp": 1698743422354,
+      "Stage": 1,
+      "ErrorType": 0,
+      "ErrorCode": "LP1030",
+      "Description": "TMP Font Asset uses unsupported 'Atlas Population Mode'",
+      "Details": [
+        "TMP Font Asset '{0}' uses Atlas Population Mode '{1}' which is not supported"
+      ],
+      "DescriptionValues": [],
+      "DetailsValues": [
+        "Bangers SDF",
+        "Dynamic"
+      ],
+      "LogCount": 1,
+      "LinePosition": 0,
+      "FilePath": "",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "c5fb41dc-4b9e-4ce2-9b32-1e7a8188ac52",
+      "Order": 5,
+      "Timestamp": 1698743422440,
+      "Stage": 1,
+      "ErrorType": 0,
+      "ErrorCode": "LP1030",
+      "Description": "TMP Font Asset uses unsupported 'Atlas Population Mode'",
+      "Details": [
+        "TMP Font Asset '{0}' uses Atlas Population Mode '{1}' which is not supported"
+      ],
+      "DescriptionValues": [],
+      "DetailsValues": [
+        "Electronic Highway Sign SDF",
+        "Dynamic"
+      ],
+      "LogCount": 1,
+      "LinePosition": 0,
+      "FilePath": "",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "5736412f-a939-4ac2-a1fe-745993133422",
+      "Order": 6,
+      "Timestamp": 1698743422533,
+      "Stage": 1,
+      "ErrorType": 0,
+      "ErrorCode": "LP1030",
+      "Description": "TMP Font Asset uses unsupported 'Atlas Population Mode'",
+      "Details": [
+        "TMP Font Asset '{0}' uses Atlas Population Mode '{1}' which is not supported"
+      ],
+      "DescriptionValues": [],
+      "DetailsValues": [
+        "Oswald Bold SDF",
+        "Dynamic"
+      ],
+      "LogCount": 1,
+      "LinePosition": 0,
+      "FilePath": "",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "2236efd8-1c78-495a-b858-7187b81a8b54",
+      "Order": 7,
+      "Timestamp": 1698743422540,
+      "Stage": 1,
+      "ErrorType": 0,
+      "ErrorCode": "LP1030",
+      "Description": "TMP Font Asset uses unsupported 'Atlas Population Mode'",
+      "Details": [
+        "TMP Font Asset '{0}' uses Atlas Population Mode '{1}' which is not supported"
+      ],
+      "DescriptionValues": [],
+      "DetailsValues": [
+        "Roboto-Bold SDF",
+        "Dynamic"
+      ],
+      "LogCount": 1,
+      "LinePosition": 0,
+      "FilePath": "",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "aaae29e9-7bb1-4205-8349-827cafd5ee5b",
+      "Order": 8,
+      "Timestamp": 1698743430367,
+      "Stage": 1,
+      "ErrorType": 2,
+      "ErrorCode": "LP1016",
+      "Description": "Extensive usage of Rigidbody Component",
+      "Details": [
+        "There is extensive usage of the Rigidbody component.\nExcessive usage of any component can be detrimental to performance on lower and in some cases higher end devices, consider reducing the amount the component is used.\nRecommended count: 10, current count 25."
+      ],
+      "DescriptionValues": [
+        "Rigidbody"
+      ],
+      "DetailsValues": [
+        "Rigidbody",
+        "10",
+        "25"
+      ],
+      "LogCount": 1,
+      "LinePosition": 0,
+      "FilePath": "",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "18f2f58a-1aed-4cde-8837-bc1eb4d2d3b4",
+      "Order": 9,
+      "Timestamp": 1698743430367,
+      "Stage": 1,
+      "ErrorType": 2,
+      "ErrorCode": "LP1016",
+      "Description": "Extensive usage of ParticleSystem Component",
+      "Details": [
+        "There is extensive usage of the ParticleSystem component.\nExcessive usage of any component can be detrimental to performance on lower and in some cases higher end devices, consider reducing the amount the component is used.\nRecommended count: 10, current count 14."
+      ],
+      "DescriptionValues": [
+        "ParticleSystem"
+      ],
+      "DetailsValues": [
+        "ParticleSystem",
+        "10",
+        "14"
+      ],
+      "LogCount": 1,
+      "LinePosition": 0,
+      "FilePath": "",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "3d585993-4e7d-495a-a838-f8bd0c6fea7f",
+      "Order": 10,
+      "Timestamp": 1698743430384,
+      "Stage": 1,
+      "ErrorType": 0,
+      "ErrorCode": "LP1026",
+      "Description": "This Cinemachine version is not supported",
+      "Details": [
+        "The incorrect Cinemachine version for this Unity version is in use, please update to the recommended version: {0}"
+      ],
+      "DescriptionValues": [],
+      "DetailsValues": [
+        "2.4.0"
+      ],
+      "LogCount": 1,
+      "LinePosition": 0,
+      "FilePath": "",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "76ce1593-8aab-4383-b8dc-79d7d90b43a5",
+      "Order": 11,
+      "Timestamp": 1698743430384,
+      "Stage": 1,
+      "ErrorType": 0,
+      "ErrorCode": "LP1032",
+      "Description": "Package(s) is not supported in Luna",
+      "Details": [
+        "Currently package(s) com.unity.timeline are not supported in Luna. We recommend you to remove it and workaround it's functionality."
+      ],
+      "DescriptionValues": [
+        "com.unity.timeline (1.6.4)"
+      ],
+      "DetailsValues": [
+        "com.unity.timeline"
+      ],
+      "LogCount": 1,
+      "LinePosition": 0,
+      "FilePath": "D:/JusticeRun/Packages\\manifest.json",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "ea9e4c3a-ff84-4c26-8e48-a628e0427d4b",
+      "Order": 12,
+      "Timestamp": 1698743430385,
+      "Stage": 1,
+      "ErrorType": 3,
+      "ErrorCode": "LP1002",
+      "Description": "Repeat wrap mode used on a texture with non power-of-two dimensions, this might not be rendered correctly.",
+      "Details": [
+        "LiberationSans SDF Atlas",
+        "Anton SDF Atlas",
+        "Bangers SDF Atlas",
+        "Electronic Highway Sign SDF Atlas",
+        "Oswald Bold SDF Atlas",
+        "Roboto-Bold SDF Atlas"
+      ],
+      "DescriptionValues": [],
+      "DetailsValues": [],
+      "LogCount": 6,
+      "LinePosition": 0,
+      "FilePath": "",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "387b54c1-0aec-40c0-97c9-8816527b8502",
+      "Order": 13,
+      "Timestamp": 1698743430385,
+      "Stage": 1,
+      "ErrorType": 2,
+      "ErrorCode": "LP1010",
+      "Description": "Looks like a collider was scaled, this might affect performance.",
+      "Details": [
+        "Policeman",
+        "Platform",
+        "PoliceBarrier",
+        "Stick2",
+        "Platform",
+        "Platform (1)",
+        "Platform (2)",
+        "Platform (3)",
+        "Platform (4)",
+        "Platform (5)",
+        "Platform (6)",
+        "Platform (7)",
+        "Thief",
+        "Thief (1)",
+        "Thief (2)",
+        "Thief (3)",
+        "Thief (4)",
+        "Thief (5)",
+        "Thief (6)",
+        "Thief (7)",
+        "Thief (8)",
+        "Thief (9)",
+        "Cube (1)",
+        "Sledge",
+        "Snowman",
+        "Thief Variant"
+      ],
+      "DescriptionValues": [],
+      "DetailsValues": [],
+      "LogCount": 26,
+      "LinePosition": 0,
+      "FilePath": "",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 0
+    },
+    {
+      "LogID": "758a72c0-0ced-44df-a95b-33086a9aa181",
+      "Order": 14,
+      "Timestamp": 1698743449855,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS0246",
+      "Description": "The type or namespace name 'AOT' could not be found (are you missing a using directive or an assembly reference?)",
+      "Details": [
+        "using AOT;"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 4,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkiOS.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "9ef40788-9418-424a-b191-894af5cedc51",
+      "Order": 15,
+      "Timestamp": 1698743449857,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS0234",
+      "Description": "The type or namespace name 'VisualScripting' does not exist in the namespace 'Unity' (are you missing an assembly reference?)",
+      "Details": [
+        "using Unity.VisualScripting;"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 5,
+      "FilePath": "D:\\JusticeRun\\Assets\\Scripts\\GameScene\\CharacterMove.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "86c48df7-8d51-4837-895a-ed558caea784",
+      "Order": 16,
+      "Timestamp": 1698743449864,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1503",
+      "Description": "Argument 2: cannot convert from 'string' to 'object[]'",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"setSdkKey\", sdkKey);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 40,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "40c8045c-89e5-4ae3-b53b-1674021c5545",
+      "Order": 17,
+      "Timestamp": 1698743449864,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 1 arguments",
+      "Details": [
+        "_maxUnityPluginClass.CallStatic(\"preloadConsentDialog\");"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 20,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxUserServiceAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "17889563-ce4e-4ad1-a7ff-d15c4c57be75",
+      "Order": 18,
+      "Timestamp": 1698743449864,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 1 arguments",
+      "Details": [
+        "_maxUnityPluginClass.CallStatic(\"showConsentDialog\");"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 30,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxUserServiceAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "5b98c2b0-2172-472e-8986-3349bb93eafe",
+      "Order": 19,
+      "Timestamp": 1698743449864,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 1 arguments",
+      "Details": [
+        "_maxUnityPluginClass.CallStatic(\"loadVariables\");"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 19,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxVariableServiceAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "3768f16d-9da1-44a2-85e0-1d95f529dbbe",
+      "Order": 20,
+      "Timestamp": 1698743449864,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 3 arguments",
+      "Details": [
+        "return _maxUnityPluginClass.CallStatic<bool>(\"getBoolean\", key, defaultValue);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 28,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxVariableServiceAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "a42e8452-e18a-459a-8b4a-ab9fcb3478aa",
+      "Order": 21,
+      "Timestamp": 1698743449864,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS0234",
+      "Description": "The type or namespace name 'Net' does not exist in the namespace 'GameAnalyticsSDK' (are you missing an assembly reference?)",
+      "Details": [
+        "GameAnalyticsSDK.Net.GameAnalytics.OnQuit();"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 115,
+      "FilePath": "D:\\JusticeRun\\Assets\\GameAnalytics\\Plugins\\Scripts\\GameAnalytics.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "573328dc-af81-454a-95e4-6e85214ef890",
+      "Order": 22,
+      "Timestamp": 1698743449864,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 3 arguments",
+      "Details": [
+        "return _maxUnityPluginClass.CallStatic<string>(\"getString\", key, defaultValue);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 37,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxVariableServiceAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "b4347ac6-0f21-40a1-83e0-1509ad5d9e28",
+      "Order": 23,
+      "Timestamp": 1698743449864,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'TryParse' takes 4 arguments",
+      "Details": [
+        "long.TryParse(InvariantCultureToString(obj), NumberStyles.Any, CultureInfo.InvariantCulture, out value))"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 182,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkUtils.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "0685c5c9-a5f2-4b87-9f9b-c09e7d55dc47",
+      "Order": 24,
+      "Timestamp": 1698743449864,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 4 arguments",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"initializeSdk\", serializedAdUnitIds, GenerateMetaData(), BackgroundCallback);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 54,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "20aaf723-569a-47fb-aa96-2e5b29471ce3",
+      "Order": 25,
+      "Timestamp": 1698743449864,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 1 arguments",
+      "Details": [
+        "return MaxUnityPluginClass.CallStatic<bool>(\"isInitialized\");"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 63,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "6cad6609-85ac-4b41-8e69-53eaf169f323",
+      "Order": 26,
+      "Timestamp": 1698743449864,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1503",
+      "Description": "Argument 2: cannot convert from 'string' to 'object[]'",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"setUserId\", userId);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 80,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "d50513fd-9567-458d-ad63-96a0fdd3b5b5",
+      "Order": 27,
+      "Timestamp": 1698743449865,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 1 arguments",
+      "Details": [
+        "var serializedNetworks = MaxUnityPluginClass.CallStatic<string>(\"getAvailableMediatedNetworks\");"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 110,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "1fad8bec-8290-4077-860d-c07b57e7e413",
+      "Order": 28,
+      "Timestamp": 1698743449865,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 1 arguments",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"showMediationDebugger\");"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 122,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "9915149f-897f-4c52-9340-5f95ffb20e73",
+      "Order": 29,
+      "Timestamp": 1698743449865,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 3 arguments",
+      "Details": [
+        "var value = MaxUnityPluginClass.CallStatic<string>(\"getAdValue\", adUnitIdentifier, key);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 133,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "5eaceb4a-6ca3-4630-a806-bacd926972de",
+      "Order": 30,
+      "Timestamp": 1698743449865,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 1 arguments",
+      "Details": [
+        "var sdkConfigurationStr = MaxUnityPluginClass.CallStatic<string>(\"getSdkConfiguration\");"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 151,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "ec088514-e376-4977-aa90-e35ced1efca8",
+      "Order": 31,
+      "Timestamp": 1698743449865,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1503",
+      "Description": "Argument 2: cannot convert from 'bool' to 'object[]'",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"setHasUserConsent\", hasUserConsent);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 162,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "bc15ee58-c0fc-472c-80eb-c0714ec2ac79",
+      "Order": 32,
+      "Timestamp": 1698743449865,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 1 arguments",
+      "Details": [
+        "return MaxUnityPluginClass.CallStatic<bool>(\"hasUserConsent\");"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 171,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "641dee47-1cf6-4c7a-aa9c-6b15a9f9649b",
+      "Order": 33,
+      "Timestamp": 1698743449865,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 1 arguments",
+      "Details": [
+        "return MaxUnityPluginClass.CallStatic<bool>(\"isUserConsentSet\");"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 180,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "f2fcd92c-ccef-444c-af30-8387b781e8c5",
+      "Order": 34,
+      "Timestamp": 1698743449865,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1503",
+      "Description": "Argument 2: cannot convert from 'bool' to 'object[]'",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"setIsAgeRestrictedUser\", isAgeRestrictedUser);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 189,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "389f683f-027b-4788-9d2a-443d73c59b25",
+      "Order": 35,
+      "Timestamp": 1698743449866,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 1 arguments",
+      "Details": [
+        "return MaxUnityPluginClass.CallStatic<bool>(\"isAgeRestrictedUser\");"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 198,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "d699b09e-f1ed-4168-a5c7-f2f10fce0d22",
+      "Order": 36,
+      "Timestamp": 1698743449866,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 1 arguments",
+      "Details": [
+        "return MaxUnityPluginClass.CallStatic<bool>(\"isAgeRestrictedUserSet\");"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 207,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "1b45338e-ef94-4000-98db-f397ec2c72dc",
+      "Order": 37,
+      "Timestamp": 1698743449866,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1503",
+      "Description": "Argument 2: cannot convert from 'bool' to 'object[]'",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"setDoNotSell\", doNotSell);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 216,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "ec27e702-0ce8-4822-ab28-00b45135fb0b",
+      "Order": 38,
+      "Timestamp": 1698743449866,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 1 arguments",
+      "Details": [
+        "return MaxUnityPluginClass.CallStatic<bool>(\"isDoNotSell\");"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 225,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "992f2bd4-c2d3-4b0a-b624-9b9b792399f7",
+      "Order": 39,
+      "Timestamp": 1698743449866,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 1 arguments",
+      "Details": [
+        "return MaxUnityPluginClass.CallStatic<bool>(\"isDoNotSellSet\");"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 234,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "70ee9bfe-3dda-48bf-a4a8-a059ed360824",
+      "Order": 40,
+      "Timestamp": 1698743449866,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 3 arguments",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"createBanner\", adUnitIdentifier, bannerPosition.ToSnakeCaseString());"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 249,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "0c976e91-b0f7-4601-a349-30fe870a2780",
+      "Order": 41,
+      "Timestamp": 1698743449867,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 4 arguments",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"createBanner\", adUnitIdentifier, x, y);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 264,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "f27ac544-24b9-47d8-9af0-96850deaccff",
+      "Order": 42,
+      "Timestamp": 1698743449867,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1503",
+      "Description": "Argument 2: cannot convert from 'string' to 'object[]'",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"loadBanner\", adUnitIdentifier);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 276,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "108ecf78-38af-418e-b495-d8f93a084c79",
+      "Order": 43,
+      "Timestamp": 1698743449867,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 3 arguments",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"setBannerPlacement\", adUnitIdentifier, placement);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 287,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "2d291dde-1d36-4d2c-a530-820a0ea30606",
+      "Order": 44,
+      "Timestamp": 1698743449868,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1503",
+      "Description": "Argument 2: cannot convert from 'string' to 'object[]'",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"startBannerAutoRefresh\", adUnitIdentifier);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 297,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "3e0d5fb9-5c82-4eae-a14c-6cbae7c0c1e9",
+      "Order": 45,
+      "Timestamp": 1698743449868,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1503",
+      "Description": "Argument 2: cannot convert from 'string' to 'object[]'",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"stopBannerAutoRefresh\", adUnitIdentifier);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 307,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "b26bca14-9892-4fbe-9d5c-93402f971d46",
+      "Order": 46,
+      "Timestamp": 1698743449868,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 3 arguments",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"updateBannerPosition\", adUnitIdentifier, bannerPosition.ToSnakeCaseString());"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 318,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "1572b007-0382-4d2a-a6fc-1e379aa3d1e3",
+      "Order": 47,
+      "Timestamp": 1698743449868,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 4 arguments",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"updateBannerPosition\", adUnitIdentifier, x, y);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 333,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "7e8da6ed-860c-4f3a-b791-abe2ce018ece",
+      "Order": 48,
+      "Timestamp": 1698743449868,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 3 arguments",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"setBannerWidth\", adUnitIdentifier, width);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 344,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "7ca37f76-5b6e-4239-b9f0-d112c096801b",
+      "Order": 49,
+      "Timestamp": 1698743449868,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1503",
+      "Description": "Argument 2: cannot convert from 'string' to 'object[]'",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"showBanner\", adUnitIdentifier);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 354,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "1dfc5fd5-8d52-4250-b96f-7ceca66cd9ab",
+      "Order": 50,
+      "Timestamp": 1698743449869,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1503",
+      "Description": "Argument 2: cannot convert from 'string' to 'object[]'",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"destroyBanner\", adUnitIdentifier);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 364,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "12c36ef2-5469-4f2c-852f-c449aca15c92",
+      "Order": 51,
+      "Timestamp": 1698743449875,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1503",
+      "Description": "Argument 2: cannot convert from 'string' to 'object[]'",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"hideBanner\", adUnitIdentifier);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 375,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "e9d51ff7-a752-4804-8220-4dd278ba118c",
+      "Order": 52,
+      "Timestamp": 1698743449876,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 3 arguments",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"setBannerBackgroundColor\", adUnitIdentifier, MaxSdkUtils.ParseColor(color));"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 387,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "4d9a2607-d055-43f1-b13c-db13adf74b54",
+      "Order": 53,
+      "Timestamp": 1698743449876,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 4 arguments",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"setBannerExtraParameter\", adUnitIdentifier, key, value);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 399,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "0b123898-ef16-4379-840c-033be7bebee8",
+      "Order": 54,
+      "Timestamp": 1698743449876,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS0103",
+      "Description": "The name 'RegionInfo' does not exist in the current context",
+      "Details": [
+        "sdkConfiguration.CountryCode = RegionInfo.CurrentRegion.TwoLetterISORegionName;"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 199,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkUnityEditor.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "b9373567-a716-4d6b-a1c8-878ee3c22319",
+      "Order": 55,
+      "Timestamp": 1698743449877,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 4 arguments",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"setBannerLocalExtraParameter\", adUnitIdentifier, key, (AndroidJavaObject) value);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 417,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "af4e10e6-fbd9-453b-b93e-fc2ff549eb20",
+      "Order": 56,
+      "Timestamp": 1698743449877,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 3 arguments",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"setBannerCustomData\", adUnitIdentifier, customData);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 428,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "04434830-90f7-43eb-a0dd-1859dc3e2954",
+      "Order": 57,
+      "Timestamp": 1698743449878,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1503",
+      "Description": "Argument 2: cannot convert from 'string' to 'string[]'",
+      "Details": [
+        "var positionRect = MaxUnityPluginClass.CallStatic<string>(\"getBannerLayout\", adUnitIdentifier);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 440,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "4c42c861-3d7b-499c-9c10-237540918f8c",
+      "Order": 58,
+      "Timestamp": 1698743449878,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 3 arguments",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"createMRec\", adUnitIdentifier, mrecPosition.ToSnakeCaseString());"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 456,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "0b9dff28-fe3a-4f6a-94ab-dff184d6d2bc",
+      "Order": 59,
+      "Timestamp": 1698743449878,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 4 arguments",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"createMRec\", adUnitIdentifier, x, y);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 471,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "8ab9d0c8-c16a-4a54-ae43-6123bdf6f968",
+      "Order": 60,
+      "Timestamp": 1698743449878,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1503",
+      "Description": "Argument 2: cannot convert from 'string' to 'object[]'",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"loadMRec\", adUnitIdentifier);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 483,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "7455684c-7214-4d66-b3c3-52cf144af7bc",
+      "Order": 61,
+      "Timestamp": 1698743449879,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 3 arguments",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"setMRecPlacement\", adUnitIdentifier, placement);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 494,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "61bdf4a8-cb41-40d3-9d97-9e3490bd7ff3",
+      "Order": 62,
+      "Timestamp": 1698743449879,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1503",
+      "Description": "Argument 2: cannot convert from 'string' to 'object[]'",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"startMRecAutoRefresh\", adUnitIdentifier);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 504,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "658440b1-481b-4aad-aacc-7d2c5e6332b1",
+      "Order": 63,
+      "Timestamp": 1698743449879,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1503",
+      "Description": "Argument 2: cannot convert from 'string' to 'object[]'",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"stopMRecAutoRefresh\", adUnitIdentifier);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 514,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "2c0cb89e-e7d1-4add-8eb2-4323f4c922d0",
+      "Order": 64,
+      "Timestamp": 1698743449879,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 3 arguments",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"updateMRecPosition\", adUnitIdentifier, mrecPosition.ToSnakeCaseString());"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 525,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "9555f8e4-65be-45df-b74f-96ac4885164f",
+      "Order": 65,
+      "Timestamp": 1698743449880,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 4 arguments",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"updateMRecPosition\", adUnitIdentifier, x, y);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 540,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "c3241bdc-60df-48cd-9131-3d12e6b067fc",
+      "Order": 66,
+      "Timestamp": 1698743449880,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1503",
+      "Description": "Argument 2: cannot convert from 'string' to 'object[]'",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"showMRec\", adUnitIdentifier);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 550,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "b2e89a01-f6f2-4d40-a29e-92e8e2df9de7",
+      "Order": 67,
+      "Timestamp": 1698743449880,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1503",
+      "Description": "Argument 2: cannot convert from 'string' to 'object[]'",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"destroyMRec\", adUnitIdentifier);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 560,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "53a011f7-992f-493c-9d72-43b4ddb28cdc",
+      "Order": 68,
+      "Timestamp": 1698743449880,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1503",
+      "Description": "Argument 2: cannot convert from 'string' to 'object[]'",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"hideMRec\", adUnitIdentifier);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 570,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "a719d65f-6077-45df-9fa0-76ecba1b717f",
+      "Order": 69,
+      "Timestamp": 1698743449880,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 4 arguments",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"setMRecExtraParameter\", adUnitIdentifier, key, value);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 582,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "5ab7876b-c83c-4b1b-9e18-e2b773974f49",
+      "Order": 70,
+      "Timestamp": 1698743449881,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 4 arguments",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"setMRecLocalExtraParameter\", adUnitIdentifier, key, (AndroidJavaObject) value);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 600,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "be01de86-ca00-42c8-88c4-42412fa66a76",
+      "Order": 71,
+      "Timestamp": 1698743449881,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 3 arguments",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"setMRecCustomData\", adUnitIdentifier, customData);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 611,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "164abbfe-a0a3-4946-a8ba-67bf12098e41",
+      "Order": 72,
+      "Timestamp": 1698743449881,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1503",
+      "Description": "Argument 2: cannot convert from 'string' to 'string[]'",
+      "Details": [
+        "var positionRect = MaxUnityPluginClass.CallStatic<string>(\"getMRecLayout\", adUnitIdentifier);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 623,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "ec34c3dc-2230-413b-a977-6e96a7254c74",
+      "Order": 73,
+      "Timestamp": 1698743449881,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 7 arguments",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"createCrossPromoAd\", adUnitIdentifier, x, y, width, height, rotation);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 646,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "bd39c9cb-02cd-49cb-9086-d663c5c86a4e",
+      "Order": 74,
+      "Timestamp": 1698743449881,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 3 arguments",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"setCrossPromoAdPlacement\", adUnitIdentifier, placement);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 657,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "23956693-b1ec-483b-859d-b93cd8742a0f",
+      "Order": 75,
+      "Timestamp": 1698743449881,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 7 arguments",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"updateCrossPromoAdPosition\", adUnitIdentifier, x, y, width, height, rotation);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 675,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "38eea370-0f30-40f5-8930-d05061f356be",
+      "Order": 76,
+      "Timestamp": 1698743449882,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1503",
+      "Description": "Argument 2: cannot convert from 'string' to 'object[]'",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"showCrossPromoAd\", adUnitIdentifier);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 685,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "6ae06dae-d938-42d0-89fe-bc2ab16b28e9",
+      "Order": 77,
+      "Timestamp": 1698743449882,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1503",
+      "Description": "Argument 2: cannot convert from 'string' to 'object[]'",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"destroyCrossPromoAd\", adUnitIdentifier);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 695,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "6dbe0af2-1900-42a0-a87f-a70f00adef33",
+      "Order": 78,
+      "Timestamp": 1698743449883,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1503",
+      "Description": "Argument 2: cannot convert from 'string' to 'object[]'",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"hideCrossPromoAd\", adUnitIdentifier);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 705,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "ffb37134-8d8e-4bf6-a57a-93d9bdd96b7d",
+      "Order": 79,
+      "Timestamp": 1698743449883,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1503",
+      "Description": "Argument 2: cannot convert from 'string' to 'string[]'",
+      "Details": [
+        "var positionRect = MaxUnityPluginClass.CallStatic<string>(\"getCrossPromoAdLayout\", adUnitIdentifier);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 717,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "73e92b3b-c117-415f-b2fc-77e3f798b85c",
+      "Order": 80,
+      "Timestamp": 1698743449883,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1503",
+      "Description": "Argument 2: cannot convert from 'string' to 'object[]'",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"loadInterstitial\", adUnitIdentifier);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 732,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "0db0f90f-aacb-4d5f-9d35-d83aae88440c",
+      "Order": 81,
+      "Timestamp": 1698743449883,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1503",
+      "Description": "Argument 2: cannot convert from 'string' to 'bool[]'",
+      "Details": [
+        "return MaxUnityPluginClass.CallStatic<bool>(\"isInterstitialReady\", adUnitIdentifier);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 743,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "05fc1c67-d04e-4f7a-9820-3b449625294f",
+      "Order": 82,
+      "Timestamp": 1698743449884,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 4 arguments",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"showInterstitial\", adUnitIdentifier, placement, customData);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 758,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "e080676e-3547-468d-8824-623ccae6ba97",
+      "Order": 83,
+      "Timestamp": 1698743449902,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 4 arguments",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"setInterstitialExtraParameter\", adUnitIdentifier, key, value);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 775,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "8815596f-8e40-4a24-a2ad-4b8fd01a967e",
+      "Order": 84,
+      "Timestamp": 1698743449902,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 4 arguments",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"setInterstitialLocalExtraParameter\", adUnitIdentifier, key, (AndroidJavaObject) value);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 793,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "9a94ba1e-9ee1-4b2b-8278-e2ba0b16b5a7",
+      "Order": 85,
+      "Timestamp": 1698743449902,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1503",
+      "Description": "Argument 2: cannot convert from 'string' to 'object[]'",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"loadAppOpenAd\", adUnitIdentifier);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 807,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "8d71c988-33a3-4688-8d0d-c66c78b79eee",
+      "Order": 86,
+      "Timestamp": 1698743449903,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1503",
+      "Description": "Argument 2: cannot convert from 'string' to 'bool[]'",
+      "Details": [
+        "return MaxUnityPluginClass.CallStatic<bool>(\"isAppOpenAdReady\", adUnitIdentifier);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 818,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "ebae5f58-57e5-4ed5-ba94-905c9eec60da",
+      "Order": 87,
+      "Timestamp": 1698743449903,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 4 arguments",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"showAppOpenAd\", adUnitIdentifier, placement, customData);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 833,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "f86bcf9e-222b-4160-9764-c064d1a73e60",
+      "Order": 88,
+      "Timestamp": 1698743449907,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1061",
+      "Description": "'Font' does not contain a definition for 'material' and no accessible extension method 'material' accepting a first argument of type 'Font' could be found (are you missing a using directive or an assembly reference?)",
+      "Details": [
+        "m_textMesh.GetComponent<Renderer>().sharedMaterial = m_textMesh.font.material;"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 74,
+      "FilePath": "D:\\JusticeRun\\Assets\\TextMesh Pro\\Examples & Extras\\Scripts\\Benchmark01.cs",
+      "ClassName": "Font",
+      "MemberName": "material",
+      "Severity": 1
+    },
+    {
+      "LogID": "d014f7f6-b472-491b-b10d-1f08cfc7515a",
+      "Order": 89,
+      "Timestamp": 1698743449907,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1061",
+      "Description": "'Font' does not contain a definition for 'material' and no accessible extension method 'material' accepting a first argument of type 'Font' could be found (are you missing a using directive or an assembly reference?)",
+      "Details": [
+        "m_textMesh.GetComponent<Renderer>().sharedMaterial = m_textMesh.font.material;"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 79,
+      "FilePath": "D:\\JusticeRun\\Assets\\TextMesh Pro\\Examples & Extras\\Scripts\\Benchmark01.cs",
+      "ClassName": "Font",
+      "MemberName": "material",
+      "Severity": 1
+    },
+    {
+      "LogID": "15207941-3afa-411b-b805-417e9c95f6c9",
+      "Order": 90,
+      "Timestamp": 1698743449908,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 4 arguments",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"setAppOpenAdExtraParameter\", adUnitIdentifier, key, value);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 850,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "6c9bffb3-884c-4908-9d6b-a50976147707",
+      "Order": 91,
+      "Timestamp": 1698743449908,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 4 arguments",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"setAppOpenAdLocalExtraParameter\", adUnitIdentifier, key, (AndroidJavaObject) value);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 868,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "3c34a9c5-8f73-4a7c-8f03-e1cbcf65865c",
+      "Order": 92,
+      "Timestamp": 1698743449908,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1503",
+      "Description": "Argument 2: cannot convert from 'string' to 'object[]'",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"loadRewardedAd\", adUnitIdentifier);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 882,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "e6bcfe6b-40fa-42d5-888e-0c1eb70f5803",
+      "Order": 93,
+      "Timestamp": 1698743449908,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1503",
+      "Description": "Argument 2: cannot convert from 'string' to 'bool[]'",
+      "Details": [
+        "return MaxUnityPluginClass.CallStatic<bool>(\"isRewardedAdReady\", adUnitIdentifier);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 893,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "fd0aa0c4-b3d6-4f89-8d54-87eb24896db0",
+      "Order": 94,
+      "Timestamp": 1698743449908,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 4 arguments",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"showRewardedAd\", adUnitIdentifier, placement, customData);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 908,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "3ffe76fb-b364-4f78-9c1c-4a88e26aaaaf",
+      "Order": 95,
+      "Timestamp": 1698743449908,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 4 arguments",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"setRewardedAdExtraParameter\", adUnitIdentifier, key, value);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 925,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "23e864cb-a5e5-46e5-b862-fd1c1fcb6e68",
+      "Order": 96,
+      "Timestamp": 1698743449908,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1061",
+      "Description": "'Font' does not contain a definition for 'material' and no accessible extension method 'material' accepting a first argument of type 'Font' could be found (are you missing a using directive or an assembly reference?)",
+      "Details": [
+        "textMesh.GetComponent<Renderer>().sharedMaterial = textMesh.font.material;"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 57,
+      "FilePath": "D:\\JusticeRun\\Assets\\TextMesh Pro\\Examples & Extras\\Scripts\\Benchmark02.cs",
+      "ClassName": "Font",
+      "MemberName": "material",
+      "Severity": 1
+    },
+    {
+      "LogID": "f2d9ee0e-a85e-4262-a56e-bcf72872309a",
+      "Order": 97,
+      "Timestamp": 1698743449908,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 4 arguments",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"setRewardedAdLocalExtraParameter\", adUnitIdentifier, key, (AndroidJavaObject) value);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 943,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "eb1081a8-7a1b-4dca-b301-acfe084eee73",
+      "Order": 98,
+      "Timestamp": 1698743449908,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1503",
+      "Description": "Argument 2: cannot convert from 'string' to 'object[]'",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"loadRewardedInterstitialAd\", adUnitIdentifier);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 957,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "7eddde32-fff4-4333-a3ee-f24207a0bc50",
+      "Order": 99,
+      "Timestamp": 1698743449909,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1503",
+      "Description": "Argument 2: cannot convert from 'string' to 'bool[]'",
+      "Details": [
+        "return MaxUnityPluginClass.CallStatic<bool>(\"isRewardedInterstitialAdReady\", adUnitIdentifier);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 968,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "df0a6d3d-4287-48c7-b05d-937806b0ce21",
+      "Order": 100,
+      "Timestamp": 1698743449909,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 4 arguments",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"showRewardedInterstitialAd\", adUnitIdentifier, placement, customData);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 983,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "d2ba1a1f-af2e-4f3d-afdd-d35489a7e612",
+      "Order": 101,
+      "Timestamp": 1698743449909,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 4 arguments",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"setRewardedInterstitialAdExtraParameter\", adUnitIdentifier, key, value);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 1000,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "9fd6e82d-cda9-4997-bd41-7535e9588905",
+      "Order": 102,
+      "Timestamp": 1698743449909,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 4 arguments",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"setRewardedInterstitialAdLocalExtraParameter\", adUnitIdentifier, key, (AndroidJavaObject) value);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 1018,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "baf9c493-baee-4b1c-b1b7-31acea8239f6",
+      "Order": 103,
+      "Timestamp": 1698743449909,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 3 arguments",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"trackEvent\", name, Json.Serialize(parameters));"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 1032,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "99000887-5ad6-4a3b-a402-17e92d584b8f",
+      "Order": 104,
+      "Timestamp": 1698743449909,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1503",
+      "Description": "Argument 2: cannot convert from 'bool' to 'object[]'",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"setMuted\", muted);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 1047,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "babebc9d-2109-4ac5-ab26-316af0d47bd9",
+      "Order": 105,
+      "Timestamp": 1698743449911,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 1 arguments",
+      "Details": [
+        "return MaxUnityPluginClass.CallStatic<bool>(\"isMuted\");"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 1058,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "6937ec9c-1212-4834-b2ab-95398100fe66",
+      "Order": 106,
+      "Timestamp": 1698743449911,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1503",
+      "Description": "Argument 2: cannot convert from 'bool' to 'object[]'",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"setVerboseLogging\", enabled);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 1067,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "2ead28f1-ec6e-4469-ad92-d4140ae8987b",
+      "Order": 107,
+      "Timestamp": 1698743449911,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1061",
+      "Description": "'Font' does not contain a definition for 'material' and no accessible extension method 'material' accepting a first argument of type 'Font' could be found (are you missing a using directive or an assembly reference?)",
+      "Details": [
+        "textMesh.GetComponent<Renderer>().sharedMaterial = TheFont.material;"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 63,
+      "FilePath": "D:\\JusticeRun\\Assets\\TextMesh Pro\\Examples & Extras\\Scripts\\TextMeshSpawner.cs",
+      "ClassName": "Font",
+      "MemberName": "material",
+      "Severity": 1
+    },
+    {
+      "LogID": "eee56e4b-3e5e-4ca8-83f2-a2ea3c166f1c",
+      "Order": 108,
+      "Timestamp": 1698743449911,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1061",
+      "Description": "'Font' does not contain a definition for 'material' and no accessible extension method 'material' accepting a first argument of type 'Font' could be found (are you missing a using directive or an assembly reference?)",
+      "Details": [
+        "m_textMesh.GetComponent<Renderer>().sharedMaterial = m_textMesh.font.material;"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 83,
+      "FilePath": "D:\\JusticeRun\\Assets\\TextMesh Pro\\Examples & Extras\\Scripts\\TextMeshProFloatingText.cs",
+      "ClassName": "Font",
+      "MemberName": "material",
+      "Severity": 1
+    },
+    {
+      "LogID": "f6680ae2-0b30-4198-9fd7-1dccde91a85e",
+      "Order": 109,
+      "Timestamp": 1698743449911,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 1 arguments",
+      "Details": [
+        "return MaxUnityPluginClass.CallStatic<bool>(\"isVerboseLoggingEnabled\");"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 1076,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "1305ac3e-9fb1-4e0a-aec9-dce43e72d5cf",
+      "Order": 110,
+      "Timestamp": 1698743449911,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1503",
+      "Description": "Argument 2: cannot convert from 'bool' to 'object[]'",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"setCreativeDebuggerEnabled\", enabled);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 1085,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "b99a383b-a7ee-49d7-92fe-54a8fdacefc2",
+      "Order": 111,
+      "Timestamp": 1698743449912,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1503",
+      "Description": "Argument 2: cannot convert from 'bool' to 'object[]'",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"setExceptionHandlerEnabled\", enabled);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 1106,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "d0731372-6b90-41d9-9656-b4c05d5704e9",
+      "Order": 112,
+      "Timestamp": 1698743449912,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1503",
+      "Description": "Argument 2: cannot convert from 'bool' to 'object[]'",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"setLocationCollectionEnabled\", enabled);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 1115,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "da66b059-46e3-4704-ab19-5d962cd15931",
+      "Order": 113,
+      "Timestamp": 1698743449912,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 3 arguments",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"setExtraParameter\", key, value);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 1125,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "857f4d9a-d344-4641-9359-7bba365f53e3",
+      "Order": 114,
+      "Timestamp": 1698743449912,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 3 arguments",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"setUserSegmentField\", name, value);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 1134,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "a8268342-96ab-4922-beeb-f488d69a0f8e",
+      "Order": 115,
+      "Timestamp": 1698743449918,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1503",
+      "Description": "Argument 2: cannot convert from 'int' to 'object[]'",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"setTargetingDataYearOfBirth\", yearOfBirth);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 1139,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "aeccedf7-d1ea-4692-9eb2-6281158a027d",
+      "Order": 116,
+      "Timestamp": 1698743449918,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1503",
+      "Description": "Argument 2: cannot convert from 'string' to 'object[]'",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"setTargetingDataGender\", gender);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 1144,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "b0f2a59d-b178-48fa-98da-ebc4b5546c2b",
+      "Order": 117,
+      "Timestamp": 1698743449918,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1503",
+      "Description": "Argument 2: cannot convert from 'int' to 'object[]'",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"setTargetingDataMaximumAdContentRating\", maximumAdContentRating);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 1149,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "7144ff81-ffc4-4027-8f06-0d0306f9a18a",
+      "Order": 118,
+      "Timestamp": 1698743449919,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1503",
+      "Description": "Argument 2: cannot convert from 'string' to 'object[]'",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"setTargetingDataEmail\", email);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 1154,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "a4c75350-4dc7-46c0-996b-8f06af79b7b7",
+      "Order": 119,
+      "Timestamp": 1698743449919,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1503",
+      "Description": "Argument 2: cannot convert from 'string' to 'object[]'",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"setTargetingDataPhoneNumber\", phoneNumber);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 1159,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "e61eb00c-88d8-43e1-8b0b-4390f62d3f25",
+      "Order": 120,
+      "Timestamp": 1698743449919,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 1 arguments",
+      "Details": [
+        "MaxUnityPluginClass.CallStatic(\"clearAllTargetingData\");"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 1178,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "b76da775-b96b-4625-9185-ed2fc1f6889c",
+      "Order": 121,
+      "Timestamp": 1698743449919,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1501",
+      "Description": "No overload for method 'CallStatic' takes 1 arguments",
+      "Details": [
+        "return (ConsentDialogState) MaxUnityPluginClass.CallStatic<int>(\"getConsentDialogState\");"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 1194,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "9f1b11a7-d621-4fe8-9041-ae2e311d6cc4",
+      "Order": 122,
+      "Timestamp": 1698743449919,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1503",
+      "Description": "Argument 2: cannot convert from 'string' to 'string[]'",
+      "Details": [
+        "var adInfoString = MaxUnityPluginClass.CallStatic<string>(\"getAdInfo\", adUnitIdentifier);"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 1200,
+      "FilePath": "D:\\JusticeRun\\Assets\\MaxSdk\\Scripts\\MaxSdkAndroid.cs",
+      "ClassName": "",
+      "MemberName": "",
+      "Severity": 1
+    },
+    {
+      "LogID": "fe2ca156-4563-4f8b-b516-b07b09563e35",
+      "Order": 123,
+      "Timestamp": 1698743449920,
+      "Stage": 3,
+      "ErrorType": 0,
+      "ErrorCode": "CS1061",
+      "Description": "'Font' does not contain a definition for 'material' and no accessible extension method 'material' accepting a first argument of type 'Font' could be found (are you missing a using directive or an assembly reference?)",
+      "Details": [
+        "textMesh.GetComponent<Renderer>().sharedMaterial = SourceFont.material;"
+      ],
+      "DescriptionValues": [
+        ""
+      ],
+      "DetailsValues": [
+        ""
+      ],
+      "LogCount": 1,
+      "LinePosition": 78,
+      "FilePath": "D:\\JusticeRun\\Assets\\TextMesh Pro\\Examples & Extras\\Scripts\\Benchmark03.cs",
+      "ClassName": "Font",
+      "MemberName": "material",
+      "Severity": 1
+    }
+  ]
+}

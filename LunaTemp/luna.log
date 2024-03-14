@@ -1,0 +1,106 @@
+report@config:load 6.03
+Authorized using stored user info.
+report@account:authorize 9.20
+stderr: 'rm' is not recognized as an internal or external command,
+operable program or batch file.
+
+Exporting assets from Unity................
+
+[ Stage1 ] Assets exported from Unity and staged for further processing
+report@unity:export 13196.87
+report@config:load 8.02
+Using D:/JusticeRun/Assets/Fonts/Super Foods.ttf file to generate an atlas for Super Foods[27032] font
+  Using alphabet  §1234567890-=qwertyuiop[]asdfghjkl;'\`zxcvbnm,./±!@#$%^&*()_+QWERTYUIOP{}ASDFGHJKL:"|~ZXCVBNM<>?
+Using D:/JusticeRun/Assets/TextMesh Pro/Fonts/LiberationSans.ttf file to generate an atlas for LiberationSans[40262] font
+  Using alphabet  §1234567890-=qwertyuiop[]asdfghjkl;'\`zxcvbnm,./±!@#$%^&*()_+QWERTYUIOP{}ASDFGHJKL:"|~ZXCVBNM<>?
+Using D:/JusticeRun/Assets/TextMesh Pro/Examples & Extras/Fonts/Bangers.ttf file to generate an atlas for Bangers[40300] font
+  Using alphabet  §1234567890-=qwertyuiop[]asdfghjkl;'\`zxcvbnm,./±!@#$%^&*()_+QWERTYUIOP{}ASDFGHJKL:"|~ZXCVBNM<>?
+Using D:/JusticeRun/Assets/TextMesh Pro/Examples & Extras/Fonts/Roboto-Bold.ttf file to generate an atlas for Roboto-Bold[39246] font
+  Using alphabet  §1234567890-=qwertyuiop[]asdfghjkl;'\`zxcvbnm,./±!@#$%^&*()_+QWERTYUIOP{}ASDFGHJKL:"|~ZXCVBNM<>?
+Using D:/JusticeRun/Assets/TextMesh Pro/Examples & Extras/Fonts/Anton.ttf file to generate an atlas for Anton[40290] font
+  Using alphabet  §1234567890-=qwertyuiop[]asdfghjkl;'\`zxcvbnm,./±!@#$%^&*()_+QWERTYUIOP{}ASDFGHJKL:"|~ZXCVBNM<>?
+Using D:/JusticeRun/Assets/TextMesh Pro/Examples & Extras/Fonts/Electronic Highway Sign.TTF file to generate an atlas for Electronic Highway Sign[40314] font
+  Using alphabet  §1234567890-=qwertyuiop[]asdfghjkl;'\`zxcvbnm,./±!@#$%^&*()_+QWERTYUIOP{}ASDFGHJKL:"|~ZXCVBNM<>?
+Using D:/JusticeRun/Assets/TextMesh Pro/Examples & Extras/Fonts/Oswald-Bold.ttf file to generate an atlas for Oswald-Bold[40324] font
+  Using alphabet  §1234567890-=qwertyuiop[]asdfghjkl;'\`zxcvbnm,./±!@#$%^&*()_+QWERTYUIOP{}ASDFGHJKL:"|~ZXCVBNM<>?
+Combined 97 glyphs into bitmap texture at D:/JusticeRun/LunaTemp/stage1/tmp/fonts/Electronic Highway Sign-40314/output_0.png (20kb)
+Combined 97 glyphs into bitmap texture at D:/JusticeRun/LunaTemp/stage1/tmp/fonts/Super Foods-27032/output_0.png (67kb)
+Combined 97 glyphs into bitmap texture at D:/JusticeRun/LunaTemp/stage1/tmp/fonts/Bangers-40300/output_0.png (68kb)
+Combined 97 glyphs into bitmap texture at D:/JusticeRun/LunaTemp/stage1/tmp/fonts/Anton-40290/output_0.png (47kb)
+Combined 97 glyphs into bitmap texture at D:/JusticeRun/LunaTemp/stage1/tmp/fonts/Roboto-Bold-39246/output_0.png (55kb)
+Combined 97 glyphs into bitmap texture at D:/JusticeRun/LunaTemp/stage1/tmp/fonts/LiberationSans-40262/output_0.png (56kb)
+Combined 97 glyphs into bitmap texture at D:/JusticeRun/LunaTemp/stage1/tmp/fonts/Oswald-Bold-40324/output_0.png (51kb)
+Found custom rules for texture Resources/unity_builtin_extra/Default-ParticleSystem
+  {"maxWidth":512,"maxHeight":512,"format":"png32","compression":"none","quality":65,"script":"","ext":"","name":"Resources/unity_builtin_extra/Default-Particle","isOverride":true}
+Found custom rules for texture Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+  {"maxWidth":512,"maxHeight":512,"format":"png32","compression":"none","quality":65,"script":"","ext":"","name":"Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset","isOverride":true}
+Resources:
+{}
+report@assets:stage2 8513.33
+report@assets:stage3 640.81
+[ Stage2 ] Assets postprocessed and bundled successfully
+report@config:unity 0.21
+report@config:load 2.32
+report@config:unity 0.06
+report@code:compose 770.05
+Authorized using stored user info.
+report@account:authorize 5.18
+.NET Framework i�in MSBuild s�r�m 17.7.2+d6990bcfa
+
+Olu�turma ba�lat�ld�: 31.10.2023 12:10:41.
+
+
+
+1 d���m�nde "C:\Users\osman\Downloads\5.3.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj" projesi (Rebuild hedef).
+
+CoreClean:
+  "C:\Users\osman\Downloads\5.3.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.AssemblyReference.cache" dosyas� siliniyor.
+
+  "C:\Users\osman\Downloads\5.3.0\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.CoreCompileInputs.cache" dosyas� siliniyor.
+
+GenerateTargetFrameworkMonikerAttribute:
+T�m ��k�� dosyalar�, giri� dosyalar�na g�re g�ncel durumda oldu�undan "GenerateTargetFrameworkMonikerAttribute" hedefi atlan�yor.
+
+CoreCompile:
+
+  C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\csc.exe /noconfig /nowarn:CS0626,1701,1702 /fullpaths /nostdlib+ /errorreport:prompt /warn:4 /define:UNITY_LUNA;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_2021;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;UNITY_2021_3;UNITY_2021_3_17 /highentropyva+ /reference:C:\Users\osman\Downloads\5.3.0\pipeline\templates\LunaCompiler\packages\Bridge.Core.17.9.38-luna\lib\net40\Bridge.dll /reference:C:\Users\osman\Downloads\5.3.0\pipeline\templates\LunaCompiler\packages\Bridge.Html5.17.9.0\lib\net40\Bridge.Html5.dll /reference:C:\Users\osman\Downloads\5.3.0\pipeline\templates\LunaCompiler\packages\Bridge.WebGL.1.22.0\lib\net40\Bridge.WebGL.dll /reference:C:\Users\osman\Downloads\5.3.0\pipeline\templates\LunaCompiler\packages\DOTween.1.2.705\lib\net40\DOTween.dll /reference:C:\Users\osman\Downloads\5.3.0\pipeline\templates\LunaCompiler\packages\com.unity.ide.rider\3.0.0\JetBrains.dll /reference:C:\Users\osman\Downloads\5.3.0\pipeline\templates\LunaCompiler\packages\Bridge.Newtonsoft.Json.1.16.0\lib\net40\Newtonsoft.Json.dll /reference:C:\Users\osman\Downloads\5.3.0\pipeline\templates\LunaCompiler\packages\Retyped.Core.1.6.6733\lib\net40\Retyped.Core.dll /reference:C:\Users\osman\Downloads\5.3.0\pipeline\templates\LunaCompiler\packages\Retyped.dom.2.8.6733\lib\net40\Retyped.dom.dll /reference:C:\Users\osman\Downloads\5.3.0\pipeline\templates\LunaCompiler\packages\Retyped.es5.2.8.6733\lib\net40\Retyped.es5.dll /reference:C:\Users\osman\Downloads\5.3.0\pipeline\templates\LunaCompiler\packages\Retyped.scripthost.2.8.6733\lib\net40\Retyped.scripthost.dll /reference:C:\Users\osman\Downloads\5.3.0\pipeline\templates\LunaCompiler\packages\com.unity.textmeshpro\3.0.6\TextMeshPro.dll /reference:C:\Users\osman\Downloads\5.3.0\pipeline\templates\LunaCompiler\Scripts\Vendor\UnityEngine.dll /reference:C:\Users\osman\Downloads\5.3.0\pipeline\templates\LunaCompiler\packages\com.unity.ui\1.2.1\UnityEngine.UI.dll /reference:C:\Users\osman\Downloads\5.3.0\pipeline\templates\LunaCompiler\packages\com.unity.urp\7.6\UnityEngine.UniversalRenderPipeline.dll /debug+ /debug:full /optimize- /out:obj\Debug\UnityScriptsCompiler.dll /subsystemversion:6.00 /target:library /warnaserror- /utf8output /langversion:7.2 D:\JusticeRun\Assets\GameAnalytics\Plugins\Playmaker\GAInitialize.cs D:\JusticeRun\Assets\GameAnalytics\Plugins\Playmaker\GetABTestingId.cs D:\JusticeRun\Assets\GameAnalytics\Plugins\Playmaker\GetABTestingVariantId.cs D:\JusticeRun\Assets\GameAnalytics\Plugins\Playmaker\GetRemoteConfigsValueAsString.cs D:\JusticeRun\Assets\GameAnalytics\Plugins\Playmaker\IsRemoteConfigsReady.cs D:\JusticeRun\Assets\GameAnalytics\Plugins\Playmaker\SendAdEvent.cs D:\JusticeRun\Assets\GameAnalytics\Plugins\Playmaker\SendBusinessEvent.cs D:\JusticeRun\Assets\GameAnalytics\Plugins\Playmaker\SendDesignEvent.cs D:\JusticeRun\Assets\GameAnalytics\Plugins\Playmaker\SendErrorEvent.cs D:\JusticeRun\Assets\GameAnalytics\Plugins\Playmaker\SendProgressionEvent.cs D:\JusticeRun\Assets\GameAnalytics\Plugins\Playmaker\SendResourceEvent.cs D:\JusticeRun\Assets\GameAnalytics\Plugins\Playmaker\SetCustomDimension.cs D:\JusticeRun\Assets\GameAnalytics\Plugins\Scripts\ATT\GameAnalyticsATTClient.cs D:\JusticeRun\Assets\GameAnalytics\Plugins\Scripts\ATT\GameAnalyticsATTObjCBridge.cs D:\JusticeRun\Assets\GameAnalytics\Plugins\Scripts\Enums.cs D:\JusticeRun\Assets\GameAnalytics\Plugins\Scripts\Events\GA_Ads.cs D:\JusticeRun\Assets\GameAnalytics\Plugins\Scripts\Events\GA_Business.cs D:\JusticeRun\Assets\GameAnalytics\Plugins\Scripts\Events\GA_Debug.cs D:\JusticeRun\Assets\GameAnalytics\Plugins\Scripts\Events\GA_Design.cs D:\JusticeRun\Assets\GameAnalytics\Plugins\Scripts\Events\GA_Error.cs D:\JusticeRun\Assets\GameAnalytics\Plugins\Scripts\Events\GA_Progression.cs D:\JusticeRun\Assets\GameAnalytics\Plugins\Scripts\Events\GA_Resource.cs D:\JusticeRun\Assets\GameAnalytics\Plugins\Scripts\Events\GA_Setup.cs D:\JusticeRun\Assets\GameAnalytics\Plugins\Scripts\Events\GA_SpecialEvents.cs D:\JusticeRun\Assets\GameAnalytics\Plugins\Scripts\Events\GAValidator.cs D:\JusticeRun\Assets\GameAnalytics\Plugins\Scripts\GameAna
+lytics.cs D:\JusticeRun\Assets\GameAnalytics\Plugins\Scripts\IGameAnalyticsATTListener.cs D:\JusticeRun\Assets\GameAnalytics\Plugins\Scripts\ILRD\AdMob\GAAdMobIntegration.cs D:\JusticeRun\Assets\GameAnalytics\Plugins\Scripts\ILRD\Aequus\GAAequusIntegration.cs D:\JusticeRun\Assets\GameAnalytics\Plugins\Scripts\ILRD\Fyber\GAFyberIntegration.cs D:\JusticeRun\Assets\GameAnalytics\Plugins\Scripts\ILRD\GameAnalyticsILRD.cs D:\JusticeRun\Assets\GameAnalytics\Plugins\Scripts\ILRD\HyperBid\GAHyperBidIntegration.cs D:\JusticeRun\Assets\GameAnalytics\Plugins\Scripts\ILRD\IronSource\GAIronSourceIntegration.cs D:\JusticeRun\Assets\GameAnalytics\Plugins\Scripts\ILRD\Max\GAMaxIntegration.cs D:\JusticeRun\Assets\GameAnalytics\Plugins\Scripts\ILRD\Mopub\GAMopubIntegration.cs D:\JusticeRun\Assets\GameAnalytics\Plugins\Scripts\ILRD\TopOn\GATopOnIntegration.cs D:\JusticeRun\Assets\GameAnalytics\Plugins\Scripts\Setup\Settings.cs D:\JusticeRun\Assets\GameAnalytics\Plugins\Scripts\State\GAState.cs D:\JusticeRun\Assets\GameAnalytics\Plugins\Scripts\Utilities\GA_MiniJson.cs D:\JusticeRun\Assets\GameAnalytics\Plugins\Scripts\Wrapper\GA_AndroidWrapper.cs D:\JusticeRun\Assets\GameAnalytics\Plugins\Scripts\Wrapper\GA_iOSWrapper.cs D:\JusticeRun\Assets\GameAnalytics\Plugins\Scripts\Wrapper\GA_MonoWrapper.cs D:\JusticeRun\Assets\GameAnalytics\Plugins\Scripts\Wrapper\GA_TizenWrapper.cs D:\JusticeRun\Assets\GameAnalytics\Plugins\Scripts\Wrapper\GA_tvOSWrapper.cs D:\JusticeRun\Assets\GameAnalytics\Plugins\Scripts\Wrapper\GA_UWPWrapper.cs D:\Jus
+ticeRun\Assets\GameAnalytics\Plugins\Scripts\Wrapper\GA_WebGLWrapper.cs D:\JusticeRun\Assets\GameAnalytics\Plugins\Scripts\Wrapper\GA_Wrapper.cs "D:\JusticeRun\Assets\GUI PRO Kit - Simple Casual\Scripts\PanelControlSimpleCasual.cs" "D:\JusticeRun\Assets\GUI PRO Kit - Simple Casual\Scripts\PanelSimpleCasual.cs" D:\JusticeRun\Assets\MaxSdk\Scripts\MaxEvents.cs D:\JusticeRun\Assets\MaxSdk\Scripts\MaxSdk.cs D:\JusticeRun\Assets\MaxSdk\Scripts\MaxSdkAndroid.cs D:\JusticeRun\Assets\MaxSdk\Scripts\MaxSdkBase.cs D:\JusticeRun\Assets\MaxSdk\Scripts\MaxSdkCallbacks.cs D:\JusticeRun\Assets\MaxSdk\Scripts\MaxSdkiOS.cs D:\JusticeRun\Assets\MaxSdk\Scripts\MaxSdkLogger.cs D:\JusticeRun\Assets\MaxSdk\Scripts\MaxSdkUnityEditor.cs D:\JusticeRun\Assets\MaxSdk\Scripts\MaxSdkUtils.cs D:\JusticeRun\Assets\MaxSdk\Scripts\MaxTargetingData.cs D:\JusticeRun\Assets\MaxSdk\Scripts\MaxUserSegment.cs D:\JusticeRun\Assets\MaxSdk\Scripts\MaxUserServiceAndroid.cs D:\JusticeRun\Assets\MaxSdk\Scripts\MaxUserServiceiOS.cs D:\JusticeRun\Assets\MaxSdk\Scripts\MaxUserServiceUnityEditor.cs D:\JusticeRun\Assets\MaxSdk\Scripts\MaxVariableServiceAndroid.cs D:\JusticeRun\Assets\MaxSdk\Scripts\MaxVariableServiceiOS.cs D:\JusticeRun\Assets\MaxSdk\Scripts\MaxVariableServiceUnityEditor.cs D:\JusticeRun\Assets\MaxSdk\Scripts\ThirdParty\MiniJSON.cs D:\JusticeRun\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModuleAudio.cs D:\JusticeRun\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModuleEPOOutline.cs D:\JusticeRun\Assets\Plugins\Demigiant\DOTween\Modules\D
+OTweenModulePhysics.cs D:\JusticeRun\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModulePhysics2D.cs D:\JusticeRun\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModuleSprite.cs D:\JusticeRun\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModuleUI.cs D:\JusticeRun\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModuleUnityVersion.cs D:\JusticeRun\Assets\Plugins\Demigiant\DOTween\Modules\DOTweenModuleUtils.cs D:\JusticeRun\Assets\Scripts\BetScene\RedOrGreenManager.cs D:\JusticeRun\Assets\Scripts\Endless\EndlessCharacterMove.cs D:\JusticeRun\Assets\Scripts\Endless\EndlessManager.cs D:\JusticeRun\Assets\Scripts\Endless\EndlessPlatformCreator.cs D:\JusticeRun\Assets\Scripts\Endless\EndlessThief.cs D:\JusticeRun\Assets\Scripts\Endless\EndlessThiefObstacleDetector.cs D:\JusticeRun\Assets\Scripts\Endless\EndlessTurnPlatform.cs D:\JusticeRun\Assets\Scripts\GameScene\CameraFollow.cs D:\JusticeRun\Assets\Scripts\GameScene\Candy.cs D:\JusticeRun\Assets\Scripts\GameScene\CarBarrier.cs D:\JusticeRun\Assets\Scripts\GameScene\CharacterMove.cs D:\JusticeRun\Assets\Scripts\GameScene\CopObstacle.cs D:\JusticeRun\Assets\Scripts\GameScene\DalScript.cs D:\JusticeRun\Assets\Scripts\GameScene\DesertNonMovedObstacles.cs D:\JusticeRun\Assets\Scripts\GameScene\Dollars.cs D:\JusticeRun\Assets\Scripts\GameScene\Duba.cs D:\JusticeRun\Assets\Scripts\GameScene\FPSCounter.cs D:\JusticeRun\Assets\Scripts\GameScene\GameManager.cs D:\JusticeRun\Assets\Scripts\GameScene\MovedTrain.cs D:\JusticeRun\Assets\Scripts\GameScene\Obstacle.cs D:\JusticeRun\Assets\Scripts\GameScene\PlatformCreator.cs D:\JusticeRun\Assets\Scripts\GameScene\PoliceBarrier.cs D:\JusticeRun\Assets\Scripts\GameScene\Portal.cs D:\JusticeRun\Assets\Scripts\GameScene\TahteravalliObstacle.cs D:\JusticeRun\Assets\Scripts\GameScene\Thief.cs D:\JusticeRun\Assets\Scripts\GameScene\ThiefObstacleDetect.cs D:\JusticeRun\Assets\Scripts\GameScene\TreeObstacle.cs D:\JusticeRun\Assets\Scripts\GameScene\TurnPlatform.cs D:\JusticeRun\Assets\Scripts\MenuManager.cs D:\JusticeRun\Assets\Scripts\TutorialManager.cs D:\JusticeRun\Assets\Scripts\UpdateScene\UpdateManager.cs "D:\JusticeRun\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01_UGUI.cs" "D:\JusticeRun\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01.cs" "D:\JusticeRun\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark02.cs" "D:\JusticeRun\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark03.cs" "D:\JusticeRun\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark04.cs" "D:\JusticeRun\Assets\TextMesh Pro\Examples & Extras\Scripts\CameraController.cs" "D:\JusticeRun\Assets\TextMesh Pro\Examples & Extras\Scripts\ChatController.cs" "D:\JusticeRun\Assets\TextMesh Pro\Examples & Extras\Scripts\DropdownSample.cs" "D:\JusticeRun\Assets\TextMesh Pro\Examples & Extras\Scripts\EnvMapAnimator.cs" "D:\JusticeRun\Assets\TextMesh Pro\Examples & Extras\Scripts\ObjectSpin.cs" "D:\JusticeRun\Assets\TextMesh Pro\Examples & Extras\Scripts\ShaderPropAnimator.cs" "D:\JusticeRun\Assets\TextMesh Pro\Examples & Extras\Scripts\SimpleScript.c
+s" "D:\JusticeRun\Assets\TextMesh Pro\Examples & Extras\Scripts\SkewTextExample.cs" "D:\JusticeRun\Assets\TextMesh Pro\Examples & Extras\Scripts\TeleType.cs" "D:\JusticeRun\Assets\TextMesh Pro\Examples & Extras\Scripts\TextConsoleSimulator.cs" "D:\JusticeRun\Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshProFloatingText.cs" "D:\JusticeRun\Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshSpawner.cs" "D:\JusticeRun\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_DigitValidator.cs" "D:\JusticeRun\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_ExampleScript_01.cs" "D:\JusticeRun\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_FrameRateCounter.cs" "D:\JusticeRun\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_PhoneNumberValidator.cs" "D:\Just
+iceRun\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventCheck.cs" "D:\JusticeRun\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventHandler.cs" "D:\JusticeRun\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextInfoDebugTool.cs" "D:\JusticeRun\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_A.cs" "D:\JusticeRun\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_B.cs" "D:\JusticeRun\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_UiFrameRateCounter.cs" "D:\JusticeRun\Assets\TextMesh Pro\Examples & Extras\Scripts\TMPro_InstructionOverlay.cs" "D:\JusticeRun\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexColorCycler.cs" "D:\JusticeRun\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexJitter.cs" "D:\JusticeRun\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeA.cs" "D:\JusticeRun\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeB.cs" "D:\JusticeRun\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexZoom.cs" "D:\JusticeRun\Assets\TextMesh Pro\E
+xamples & Extras\Scripts\WarpTextExample.cs" Properties/AssemblyInfo.cs Sources/OtherDummyScript.cs "obj\Debug\.NETFramework,Version=v4.7.AssemblyAttributes.cs"
+
+D:\JusticeRun\Assets\MaxSdk\Scripts\MaxSdkiOS.cs(4,7): error CS0246: 'AOT' t�r� veya ad alan� ad� bulunamad� (bir using y�nergeniz veya derleme ba�vurunuz mu eksik?) [C:\Users\osman\Downloads\5.3.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+D:\JusticeRun\Assets\Scripts\GameScene\CharacterMove.cs(5,13): error CS0234: 'VisualScripting' t�r veya ad alan� ad� 'Unity' ad alan�nda yok (bir derleme ba�vurunuz mu eksik?) [C:\Users\osman\Downloads\5.3.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+  CompilerServer: server - server processed compilation - 9eb52d38-0c24-49d2-87a5-9bc81c7cdaf2
+
+"C:\Users\osman\Downloads\5.3.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj" Projesini Olu�turma ��lemi Tamamland� (Rebuild hedef) -- BA�ARISIZ OLDU.
+
+
+Olu�turma BA�ARISIZ OLDU.
+
+
+
+"C:\Users\osman\Downloads\5.3.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj" (Rebuild hedefi) (1) ->
+(CoreCompile hedefi) -> 
+  D:\JusticeRun\Assets\MaxSdk\Scripts\MaxSdkiOS.cs(4,7): error CS0246: 'AOT' t�r� veya ad alan� ad� bulunamad� (bir using y�nergeniz veya derleme ba�vurunuz mu eksik?) [C:\Users\osman\Downloads\5.3.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  D:\JusticeRun\Assets\Scripts\GameScene\CharacterMove.cs(5,13): error CS0234: 'VisualScripting' t�r veya ad alan� ad� 'Unity' ad alan�nda yok (bir derleme ba�vurunuz mu eksik?) [C:\Users\osman\Downloads\5.3.0\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+    0 Uyar�
+    2 Hata
+
+
+Ge�en S�re 00:00:00.46
+
+Diagnostics gathered successfully
+report@code:build 10474.82
+report@diagnostics:verify 0.49
+
+Fatal error while building C# code
+[ error ] $Project failed to build, check project diagnostics
+Error: DIAGNOSTICS_FATAL_ERROR
+    at Function.checkForErrors (C:\Users\osman\Downloads\5.3.0\pipeline\Jakefile.js:6:2980379)
+    at async _0x17aca6.action (C:\Users\osman\Downloads\5.3.0\pipeline\Jakefile.js:6:2984841)
